@@ -22,6 +22,8 @@
         </div>
 
         <div>[<a href='/posts/create'>create</a>]</div>
+        
+        
     </body>
 </html>
 
